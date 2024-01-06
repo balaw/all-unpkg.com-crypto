@@ -499,7 +499,7 @@ bitcoin node miner github - Recherche Google: https://www.google.com/search?q=bi
 
 us-east.stratum.slushpool.com - Recherche Google: https://www.google.com/search?q=us-east.stratum.slushpool.com&sca_esv=595327113&sxsrf=AM9HkKlVnMwmUtbhwWphlu1IcNaWDjcpPA%3A1704282972015&ei=XEuVZaNGn6OR1Q-R07eoBg&oq=&gs_lp=Egxnd3Mtd2l6LXNlcnAiACoCCAAyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyBxAjGOoCGCcyEBAuGAMYjwEY6gIYtALYAQEyEBAAGAMYjwEY6gIYtALYAQEyEBAuGAMYjwEY6gIYtALYAQEyEBAAGAMYjwEY6gIYtALYAQEyEBAAGAMYjwEY6gIYtALYAQEyEBAAGAMYjwEY6gIYtALYAQEyEBAuGAMYjwEY6gIYtALYAQEyEBAAGAMYjwEY6gIYtALYAQEyEBAAGAMYjwEY6gIYtALYAQEyEBAuGAMYjwEY6gIYtALYAQFI1hZQAFgAcAF4AJABAJgBAKABAKoBALgBAcgBAPgBAagCFOIDBBgAIEGIBgG6BgYIARABGAo&sclient=gws-wiz-serp#ip=1
 
-UNPKG - blockchain-spv - balawkmalala@gmail.com - Gmail: https://mail.google.com/mail/u/0/#inbox/FMfcgzGwJcXscZRNnhfbVVRRrcvxdSvX
+UNPKG - blockchain-spv 
 
 UNPKG - blockchain-spv: https://unpkg.com/browse/blockchain-spv@0.1.0/README.md
 
